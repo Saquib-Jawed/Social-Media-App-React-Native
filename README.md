@@ -19,7 +19,7 @@ Notifications on new messages.<br>
 <div align="center">
 
 <h4 align="center">Signup Screen &nbsp&nbsp&nbsp&nbsp | &nbsp&nbsp&nbsp&nbsp Home Screen &nbsp&nbsp&nbsp&nbsp | &nbsp&nbsp&nbsp&nbsp Profile Screen</h4>
-<img height=480 width=240 style="margin: 10px;" src="./screenshots/1.jpg"/>
+<img height=480 width=240 style="margin: 10px;" src="../screenshots/1.jpg"/>
 <img height=480 width=240 style="margin: 10px;" src="./screenshots/2.jpg"/>
 <img height=480 width=240 style="margin: 10px;" src="./screenshots/3.jpg"/>
 

@@ -1,18 +1,18 @@
  <div align="center">
 
-SocialApp-React-Native
+### SocialApp-React-Native
 
 ## Pages
 
-* Login / Signup.
-* Forgot password.
-* Edit your profile.
-* Follow / Unfollow users.
-* create / edit / delete posts.
-* create / delete comments.
-* Like / Unlike posts.
-* Personal chat with users.
-* Notifications on new messages.
+Login / Signup.
+Forgot password.
+Edit your profile.
+Follow / Unfollow users.
+create / edit / delete posts.
+create / delete comments.
+Like / Unlike posts.
+Personal chat with users.
+Notifications on new messages.
 
 ## Images of App
 

@@ -1,6 +1,6 @@
- <div align="center">
+<div align="center">
 
-### SocialApp-React-Native
+<h1>SocialApp-React-Native</h1>
 
 ## Pages
 

@@ -4,15 +4,15 @@
 
 ## Pages
 
-Login / Signup.
-Forgot password.
-Edit your profile.
-Follow / Unfollow users.
-create / edit / delete posts.
-create / delete comments.
-Like / Unlike posts.
-Personal chat with users.
-Notifications on new messages.
+Login / Signup.<br>
+Forgot password.<br>
+Edit your profile.<br>
+Follow / Unfollow users.<br>
+create / edit / delete posts.<br>
+create / delete comments.<br>
+Like / Unlike posts.<br>
+Personal chat with users.<br>
+Notifications on new messages.<br>
 
 ## Images of App
 
